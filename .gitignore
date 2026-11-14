@@ -1,4 +1,11 @@
+# Entornos virtuales de Python
 .venv/
+.venv312/
+venv/
+
+# Archivos temporales de Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Archivos del sistema
 .DS_Store
